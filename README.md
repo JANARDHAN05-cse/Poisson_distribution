@@ -33,7 +33,7 @@ The Poisson distribution is the discrete probability distribution of the number 
 NAME : P JANARDHAN
 REGISTER NUMBER : 212224040128
 ```
-```
+```python
 import numpy as np
 import math
 import scipy.stats
